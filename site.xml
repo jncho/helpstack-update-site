@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/HelpStack_1.0.0.jar" id="HelpStack" version="1.0.0">
+      <category name="helpstack_category"/>
+   </feature>
+   <category-def name="helpstack_category" label="HelpStack">
+      <description>
+         A Stack Overflow consultation plugin that includes an internal forum and a recommendation system.
+      </description>
+   </category-def>
+</site>
